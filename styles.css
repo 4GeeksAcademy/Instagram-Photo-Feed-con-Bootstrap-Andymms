@@ -1,0 +1,36 @@
+.Logo-ig {
+    font-size: 25px;
+}
+
+.Imagenes {
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+}
+
+.Imagenes img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.Post {
+    width: 420px;
+}
+
+.Titulo {
+    display: flex;
+}
+
+.imagen {
+    overflow: hidden;
+}
+
+.imagen img {
+    object-fit: contain;
+    display: block;
+}
+
+.Description {
+    font-size: 13px;
+    text-align: justify;
+}
